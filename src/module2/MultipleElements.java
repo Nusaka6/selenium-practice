@@ -57,6 +57,7 @@ public class MultipleElements {
             }
 
         }
+        System.out.println("Finish!");
 
         driver.quit();
 
